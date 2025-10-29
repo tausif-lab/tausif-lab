@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tautumhare@gmail.com**
 
-- 📄 Know about my experiences [hfhhvhj](hfhhvhj)
+- 📄 Know about my experiences [View My Resume (PDF)](./assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
