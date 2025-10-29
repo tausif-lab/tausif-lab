@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Beyond Records](https://github.com/tausif-lab/Beyond_Record.git)
 
-- 🌱 I’m currently learning **Solidity, Ethers.js**
+- 🌱 I’m currently learning **rust**
 
 - 👨‍💻 All of my projects are available at [https://rural-digitalization.vercel.app , https://exampro-4uor.onrender.com](https://rural-digitalization.vercel.app , https://exampro-4uor.onrender.com)
 
