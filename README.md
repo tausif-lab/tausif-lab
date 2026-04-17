@@ -55,7 +55,8 @@
 
 ## 📊 Portfolio & Work
 
-- 🌐 Projects:  
+- 🌐 Projects:
+  - https://tech-cafe-codex.vercel.app
   - https://rural-digitalization.vercel.app  
   - https://exampro-4uor.onrender.com  
 
